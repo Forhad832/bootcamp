@@ -1,0 +1,44 @@
+html{
+    scroll-behavior: smooth;
+}
+#navbar{
+    padding: 20px 0px;
+}
+#developer{
+    padding: 5% 0%;
+}
+#newsletter{
+    padding: 20px 0px;
+}
+#card-section{
+    padding: 40px 0px;
+}
+#learn{
+    padding: 5% 0% ;
+}
+#react{
+    padding: 5% 0%;
+}
+#questions{
+    padding: 5% 0%;
+}
+.section-title{
+    text-align: center;
+    color: white;
+    padding: 20px 0px;
+}
+.contact-link a{
+    margin-right: 10px;
+}
+.icon-style{
+    color: white;
+}
+#contact{
+    padding: 5% 0%;
+}
+#footer{
+    padding: 20px 0px;
+}
+.navbar-icon{
+    color: white;
+}
